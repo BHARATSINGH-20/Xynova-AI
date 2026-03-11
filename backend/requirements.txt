@@ -1,0 +1,9 @@
+groq
+python-dotenv
+speechrecognition
+pyaudio
+pocketsphinx
+pyttsx3
+wikipedia
+pycaw
+comtypes
