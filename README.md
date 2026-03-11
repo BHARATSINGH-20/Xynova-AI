@@ -33,7 +33,3 @@ It allows users to interact with an AI assistant directly from a web interface.
 ### AI Integration
 - Groq API
 - LLaMA Model
-
----
-
-## 📂 Project Structure
